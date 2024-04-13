@@ -117,10 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DemoEnding" xml:space="preserve">
-    <value>Nous nous occupons de votre commande. La démo est terminée, cliquez sur le logo pour recommencer.</value>
+  <data name="Average" xml:space="preserve">
+    <value>Lu yem</value>
   </data>
-  <data name="Thanks" xml:space="preserve">
-    <value>Merci</value>
+  <data name="Checkout" xml:space="preserve">
+    <value>Dieexal sa ndjend</value>
+  </data>
+  <data name="ContinueShopping" xml:space="preserve">
+    <value>Yegali say njeund</value>
+  </data>
+  <data name="Item" xml:space="preserve">
+    <value>Bagass</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Njek</value>
+  </data>
+  <data name="Quantity" xml:space="preserve">
+    <value>Xayma</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Dindi</value>
+  </data>
+  <data name="Subtotal" xml:space="preserve">
+    <value>Njegu ben bagass</value>
+  </data>
+  <data name="YourCart" xml:space="preserve">
+    <value>Sen pañé</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Lep</value>
+    <comment>Total</comment>
   </data>
 </root>

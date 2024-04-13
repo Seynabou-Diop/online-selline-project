@@ -117,10 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DemoEnding" xml:space="preserve">
-    <value>Nous nous occupons de votre commande. La démo est terminée, cliquez sur le logo pour recommencer.</value>
+  <data name="City" xml:space="preserve">
+    <value>Ville</value>
   </data>
-  <data name="Thanks" xml:space="preserve">
-    <value>Merci</value>
+  <data name="CompleteOrder" xml:space="preserve">
+    <value>Jeexal njend bi</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Deuk</value>
+  </data>
+  <data name="EnterDetails" xml:space="preserve">
+    <value>Niou lidieunti sa njend bi si lu gaaw! </value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Deku waay</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tour</value>
+  </data>
+  <data name="OrderTitle" xml:space="preserve">
+    <value>Mottalil formulaire bi si souf</value>
+  </data>
+  <data name="ShipSoon" xml:space="preserve">
+    <value>Dinegn len yoone seeni bagass si you gaaw</value>
+  </data>
+  <data name="ShipTo" xml:space="preserve">
+    <value>Yoone ko</value>
+  </data>
+  <data name="z" xml:space="preserve">
+    <value>Deku waay</value>
+  </data>
+  <data name="Zip" xml:space="preserve">
+    <value>Code postal</value>
   </data>
 </root>

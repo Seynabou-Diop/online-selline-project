@@ -117,10 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DemoEnding" xml:space="preserve">
-    <value>Nous nous occupons de votre commande. La démo est terminée, cliquez sur le logo pour recommencer.</value>
+  <data name="ChangeLanguage" xml:space="preserve">
+    <value>Tanal sa làk</value>
   </data>
-  <data name="Thanks" xml:space="preserve">
-    <value>Merci</value>
+  <data name="Language" xml:space="preserve">
+    <value>Làk</value>
+  </data>
+  <data name="LanguageEnglish" xml:space="preserve">
+    <value>Angalé</value>
+  </data>
+  <data name="LanguageFrench" xml:space="preserve">
+    <value>Farancé</value>
+  </data>
+  <data name="LanguageWolof" xml:space="preserve">
+    <value>Wolof</value>
   </data>
 </root>
