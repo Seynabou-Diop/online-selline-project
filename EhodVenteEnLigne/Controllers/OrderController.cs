@@ -28,13 +28,13 @@ namespace EhodBoutiqueEnLigne.Controllers
         [HttpPost]
         public IActionResult Index(OrderViewModel order)
         {
-            if (!((Cart) _cart).Lines.Any())
+            if (!((Cart)_cart).Lines.Any())
             {
                 ModelState.AddModelError("", _localizer["CartEmpty"]);
             }
             if (ModelState.IsValid)
             {
-                order.Lines = ((Cart) _cart)?.Lines.ToArray();
+                order.Lines = ((Cart)_cart)?.Lines.ToArray();
                 _orderService.SaveOrder(order);
                 return RedirectToAction(nameof(Completed));
             }

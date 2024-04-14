@@ -15,9 +15,10 @@ namespace EhodBoutiqueEnLigne.Models.ViewModels
 
         public string Details { get; set; }
 
-        [Required(ErrorMessage = "MissingStock")]
+        [Required(ErrorMessage = "MissingQuantity")]
         [RegularExpression("^[0-9]*$", ErrorMessage = "StockNotAnInteger")]
         public string Stock { get; set; }
+
 
         [Required(ErrorMessage = "MissingPrice")]
         [RegularExpression(@"^\d+(\.\d{1,2})?$", ErrorMessage = "PriceNotANumber")]
